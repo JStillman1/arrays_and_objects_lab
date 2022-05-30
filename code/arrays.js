@@ -62,7 +62,8 @@ console.log(stations);
  * How did Leeds get on there? Better remove it.
  */
 
-// console.log(stations);
+stations.splice(4,1);
+console.log(stations);
 
 
 
