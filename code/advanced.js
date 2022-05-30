@@ -52,9 +52,10 @@ console.log(england);
  * Q2. Change the capital of Wales to "Cardiff"
  */
 
-wales = null;
+wales = unitedKingdom[2];
+wales.capital = "Cardiff";
 
-// console.log(wales);
+console.log(wales);
 
 
 
