@@ -42,9 +42,9 @@ unitedKingdom = [
  * Q1. Add some tourist attractions to England
  */
 
-england = null;
-
-// console.log(england);
+england = unitedKingdom[1];
+england.touristAttractions = ["Alton towers", "The London Eye", "The Cheesegrater"];
+console.log(england);
 
 
 
