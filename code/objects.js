@@ -57,9 +57,9 @@ console.log(tortoise);
  * Q4. How many different colours is Poppy?
  */
 
-dogColourCount = null;
+dogColourCount = dog["colours"].length;
 
-// console.log("The dog has " + dogColourCount + " different colours");
+console.log("The dog has " + dogColourCount + " different colours");
 
 
 
