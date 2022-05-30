@@ -48,7 +48,8 @@ console.log("The cat is a " + catBreed);
  * Q3. It's the tortoise's birthday! Add one to her current age.
  */
 
-// console.log(tortoise)
+tortoise.age += 1;
+console.log(tortoise);
 
 
 
